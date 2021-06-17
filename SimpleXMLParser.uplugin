@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SimpleXMLParser",
+	"Description": "Simple XML parser",
+	"Category": "Other",
+	"CreatedBy": "wagomu056",
+	"CreatedByURL": "https://twitter.com/Wagomu24963773",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SimpleXMLParser",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
