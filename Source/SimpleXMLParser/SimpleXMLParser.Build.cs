@@ -26,6 +26,7 @@ public class SimpleXMLParser : ModuleRules
 			new string[]
 			{
 				"Core",
+				"XmlParser",
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
